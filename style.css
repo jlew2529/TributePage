@@ -2,6 +2,40 @@ body {
     background-color: black;
 }
 
-#main {
+#title {
     color: white;
+    text-align: center;
+    font-size: 32px;
+    font-family: fantasy;
+    padding-bottom: 20px;
+}
+
+#image {
+    border-style: solid;
+    border-color: purple;
+    width: 450px;
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#img-caption {
+    text-align: center;
+}
+
+p {
+    color: white;
+}
+
+#tribute-info {
+    width: 400px;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    font-size: 18px;
+}
+
+a {
+    color: purple;
 }
